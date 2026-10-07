@@ -298,6 +298,8 @@ def write_golden(stars, rows, f1, f2_rows, leads, f4):
         vals[k] = v; srcs[k] = src
     put("data:repos_n", len(stars), "data dir repo-file count")
     put("data:packages_n", len([f for f in os.listdir(os.path.join(DATA, "downloads")) if f.endswith(".json")]), "data/downloads package count")
+    put("data:n_ai", f1["n_ai"], "analyze_final F1 grouping")
+    put("data:n_classic", f1["n_classic"], "analyze_final F1 grouping")
     f1r = {x["repo"]: x for x in rows}
     # per-repo facts (Table 1 + panel)
     for repo, r in stars.items():

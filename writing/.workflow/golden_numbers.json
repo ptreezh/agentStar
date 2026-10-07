@@ -2,6 +2,8 @@
  "values": {
   "data:repos_n": 25.0,
   "data:packages_n": 20.0,
+  "data:n_ai": 14.0,
+  "data:n_classic": 11.0,
   "f1:AUTOMATIC1111__stable-diffusion-webui:max_wk": 5017.0,
   "f1:AUTOMATIC1111__stable-diffusion-webui:pre4": 5540.0,
   "f1:AUTOMATIC1111__stable-diffusion-webui:decay": 0.86,
@@ -359,6 +361,8 @@
  "sources": {
   "data:repos_n": "data dir repo-file count",
   "data:packages_n": "data/downloads package count",
+  "data:n_ai": "analyze_final F1 grouping",
+  "data:n_classic": "analyze_final F1 grouping",
   "f1:AUTOMATIC1111__stable-diffusion-webui:max_wk": "analyze_final F1 rows",
   "f1:AUTOMATIC1111__stable-diffusion-webui:pre4": "analyze_final F1 rows",
   "f1:AUTOMATIC1111__stable-diffusion-webui:decay": "analyze_final F1 rows",
@@ -704,6 +708,6 @@
   "data:run-llama__llama_index:wk_2023-01-08": "data raw weekly total",
   "ref:chatgpt_week_run-llama__llama_index": "\u00a75.4 ChatGPT-response week"
  },
- "generated_at": "2026-10-07T22:07:07Z",
+ "generated_at": "2026-10-07T23:39:38Z",
  "generated_by": "analyze_final.py"
 }
