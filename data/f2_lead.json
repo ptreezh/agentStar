@@ -1,0 +1,132 @@
+[
+ {
+  "repo": "langchain-ai/langchain",
+  "pkg": "langchain",
+  "n": 25,
+  "D_peak": 2.82,
+  "D_peak_week": "2026-04-13",
+  "dl_min_week": "2026-08-31",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 24.0
+ },
+ {
+  "repo": "langchain-ai/langgraph",
+  "pkg": "langgraph",
+  "n": 25,
+  "D_peak": 2.68,
+  "D_peak_week": "2026-04-13",
+  "dl_min_week": "2026-09-07",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 24.0
+ },
+ {
+  "repo": "run-llama/llama_index",
+  "pkg": "llama-index",
+  "n": 25,
+  "D_peak": 1.18,
+  "D_peak_week": "2026-04-13",
+  "dl_min_week": "2026-09-14",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 24.0
+ },
+ {
+  "repo": "microsoft/autogen",
+  "pkg": "pyautogen",
+  "n": 25,
+  "D_peak": 0.57,
+  "D_peak_week": "2026-04-13",
+  "dl_min_week": "2026-08-24",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 24.0
+ },
+ {
+  "repo": "crewAIInc/crewAI",
+  "pkg": "crewai",
+  "n": 25,
+  "D_peak": 2.26,
+  "D_peak_week": "2026-04-13",
+  "dl_min_week": "2026-09-14",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 24.0
+ },
+ {
+  "repo": "modelcontextprotocol/servers",
+  "pkg": "mcp",
+  "n": 25,
+  "D_peak": 2.98,
+  "D_peak_week": "2026-04-27",
+  "dl_min_week": "2026-08-24",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 22.0
+ },
+ {
+  "repo": "openai/openai-python",
+  "pkg": "openai",
+  "n": 25,
+  "D_peak": 4.03,
+  "D_peak_week": "2026-04-13",
+  "dl_min_week": "2026-08-31",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 24.0
+ },
+ {
+  "repo": "ollama/ollama",
+  "pkg": "ollama",
+  "n": 25,
+  "D_peak": 4.25,
+  "D_peak_week": "2026-04-13",
+  "dl_min_week": "2026-09-07",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 24.0
+ },
+ {
+  "repo": "vllm-project/vllm",
+  "pkg": "vllm",
+  "n": 25,
+  "D_peak": 1.56,
+  "D_peak_week": "2026-04-20",
+  "dl_min_week": "2026-09-14",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 23.0
+ },
+ {
+  "repo": "huggingface/transformers",
+  "pkg": "transformers",
+  "n": 25,
+  "D_peak": 3.91,
+  "D_peak_week": "2026-09-07",
+  "dl_min_week": "2026-09-07",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 3.0
+ },
+ {
+  "repo": "pytorch/pytorch",
+  "pkg": "torch",
+  "n": 25,
+  "D_peak": 3.05,
+  "D_peak_week": "2026-09-21",
+  "dl_min_week": "2026-09-14",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 1.0
+ },
+ {
+  "repo": "tensorflow/tensorflow",
+  "pkg": "tensorflow",
+  "n": 25,
+  "D_peak": 4.09,
+  "D_peak_week": "2026-09-07",
+  "dl_min_week": "2026-08-24",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 3.0
+ },
+ {
+  "repo": "openclaw/openclaw",
+  "pkg": "openclaw",
+  "n": 25,
+  "D_peak": 1.63,
+  "D_peak_week": "2026-04-13",
+  "dl_min_week": "2026-08-24",
+  "dl_inflection_week": "2026-09-28",
+  "lead_weeks": 24.0
+ }
+]

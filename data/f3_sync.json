@@ -1,0 +1,149 @@
+[
+ {
+  "event": "2022-11-30 ChatGPT launch",
+  "repo": "langchain-ai/langchain",
+  "peak_wk": 364,
+  "peak_week": "2023-01-08",
+  "lag_days": 39
+ },
+ {
+  "event": "2022-11-30 ChatGPT launch",
+  "repo": "run-llama/llama_index",
+  "peak_wk": 710,
+  "peak_week": "2023-01-08",
+  "lag_days": 39
+ },
+ {
+  "event": "2022-11-30 ChatGPT launch",
+  "repo": "huggingface/transformers",
+  "peak_wk": 520,
+  "peak_week": "2022-12-04",
+  "lag_days": 4
+ },
+ {
+  "event": "2022-11-30 ChatGPT launch",
+  "repo": "openai/openai-python",
+  "peak_wk": 240,
+  "peak_week": "2022-12-04",
+  "lag_days": 4
+ },
+ {
+  "event": "2023-03-16 AutoGPT viral (repo created)",
+  "repo": "Significant-Gravitas/AutoGPT",
+  "peak_wk": 49402,
+  "peak_week": "2023-04-09",
+  "lag_days": 24
+ },
+ {
+  "event": "2024-11-25 MCP announced (Anthropic)",
+  "repo": "modelcontextprotocol/modelcontextprotocol",
+  "peak_wk": 147,
+  "peak_week": "2024-11-24",
+  "lag_days": -1
+ },
+ {
+  "event": "2024-11-25 MCP announced (Anthropic)",
+  "repo": "modelcontextprotocol/servers",
+  "peak_wk": 3077,
+  "peak_week": "2024-11-24",
+  "lag_days": -1
+ },
+ {
+  "event": "2025-03-05 OpenAI adopts MCP",
+  "repo": "modelcontextprotocol/servers",
+  "peak_wk": 5050,
+  "peak_week": "2025-03-16",
+  "lag_days": 11
+ },
+ {
+  "event": "2025-09-22 anthropics/skills created",
+  "repo": "anthropics/skills",
+  "peak_wk": 8005,
+  "peak_week": "2025-10-19",
+  "lag_days": 27
+ },
+ {
+  "event": "2025-10-16 Agent Skills announced",
+  "repo": "anthropics/skills",
+  "peak_wk": 8005,
+  "peak_week": "2025-10-19",
+  "lag_days": 3
+ },
+ {
+  "event": "2025-12-09 MCP donated to Agentic AI Foundation",
+  "repo": "modelcontextprotocol/servers",
+  "peak_wk": 626,
+  "peak_week": "2026-01-18",
+  "lag_days": 40
+ },
+ {
+  "event": "2026-01-20 OpenClaw viral (~72h +60k)",
+  "repo": "openclaw/openclaw",
+  "peak_wk": 116281,
+  "peak_week": "2026-01-25",
+  "lag_days": 5
+ },
+ {
+  "event": "2026-01-27 Anthropic trademark notice (Clawd)",
+  "repo": "openclaw/openclaw",
+  "peak_wk": 116281,
+  "peak_week": "2026-01-25",
+  "lag_days": -2
+ },
+ {
+  "event": "2026-04-16 Claude Opus 4.7 GA",
+  "repo": "langchain-ai/langchain",
+  "peak_wk": 1059,
+  "peak_week": "2026-03-29",
+  "lag_days": -18
+ },
+ {
+  "event": "2026-04-16 Claude Opus 4.7 GA",
+  "repo": "langchain-ai/langgraph",
+  "peak_wk": 806,
+  "peak_week": "2026-04-19",
+  "lag_days": 3
+ },
+ {
+  "event": "2026-04-16 Claude Opus 4.7 GA",
+  "repo": "openai/openai-python",
+  "peak_wk": 103,
+  "peak_week": "2026-04-05",
+  "lag_days": -11
+ },
+ {
+  "event": "2026-04-16 Claude Opus 4.7 GA",
+  "repo": "ollama/ollama",
+  "peak_wk": 1510,
+  "peak_week": "2026-04-05",
+  "lag_days": -11
+ },
+ {
+  "event": "2026-04-16 Claude Opus 4.7 GA",
+  "repo": "crewAIInc/crewAI",
+  "peak_wk": 759,
+  "peak_week": "2026-04-19",
+  "lag_days": 3
+ },
+ {
+  "event": "2026-04-16 Claude Opus 4.7 GA",
+  "repo": "openclaw/openclaw",
+  "peak_wk": 35755,
+  "peak_week": "2026-03-08",
+  "lag_days": -39
+ },
+ {
+  "event": "2026-04-23 GPT-5.5 launch",
+  "repo": "openai/openai-python",
+  "peak_wk": 103,
+  "peak_week": "2026-04-05",
+  "lag_days": -18
+ },
+ {
+  "event": "2026-04-23 GPT-5.5 launch",
+  "repo": "langchain-ai/langchain",
+  "peak_wk": 1059,
+  "peak_week": "2026-03-29",
+  "lag_days": -25
+ }
+]
